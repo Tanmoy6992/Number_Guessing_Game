@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[1]:
+
+
 import random
 import math
 # Taking Inputs
@@ -42,3 +48,10 @@ if count >= math.log(upper - lower + 1, 2):
     print("\tBetter Luck Next time!")
  
 # Better to use This source Code on pycharm!
+
+
+# In[ ]:
+
+
+
+
