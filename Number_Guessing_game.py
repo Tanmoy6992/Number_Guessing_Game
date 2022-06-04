@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import random
 import math
 # Taking Inputs
@@ -46,11 +40,8 @@ while count < math.log(upper - lower + 1, 2):
 if count >= math.log(upper - lower + 1, 2):
     print("\nThe number is %d" % x)
     print("\tBetter Luck Next time!")
- 
-# Better to use This source Code on pycharm!
 
 
-# In[ ]:
 
 
 
